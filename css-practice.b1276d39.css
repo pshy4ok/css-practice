@@ -81,7 +81,7 @@ body {
 
 .person:hover .person__extra {
   opacity: 1;
-  text-align: center;
+  justify-self: center;
   margin-top: 9px;
   font-size: 18px;
   font-weight: 400;
